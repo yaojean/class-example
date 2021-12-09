@@ -10,4 +10,5 @@ class Voiture:
 
 v1=Voiture("lamborghini","rouge","3 ans")
 print(v1.marque)
+print(v1.ma_voiture())
         
